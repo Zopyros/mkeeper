@@ -8,7 +8,7 @@ function Header() {
   };
 
   const headerStyle = {
-    color: isBlack ? 'black' : 'white',
+    color: isBlack ? 'white' : '#FFD700',
   };
 
   return (
